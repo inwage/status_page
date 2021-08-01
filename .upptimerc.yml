@@ -13,15 +13,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status_page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://bitwage-images.s3.amazonaws.com/bitwage_status.png
   name: Bitwage v2 Status Page
   introTitle: "Bitwage v2 Status Page"
   introMessage: Bitwage v2 Status Page
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Bitwage
+      href: https://www.bitwage.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
