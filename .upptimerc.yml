@@ -7,8 +7,8 @@ sites:
     url: https://proxy.bitwage.com
   - name: proxy api sandbox
     url: https://proxy1.bitwage.com
-  - name: proxy api documentation
-    url: https://docs4.bitwage.com
+  - name: public api documentation
+    url: https://docs1.bitwage.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
