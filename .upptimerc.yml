@@ -11,8 +11,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status_page
+  cname: status2.bitwage.com
+  #baseUrl: /status_page
   logoUrl: https://bitwage-images.s3.amazonaws.com/bitwage_status.png
   name: Bitwage v2 Status Page
   introTitle: "Bitwage v2 Status Page"
