@@ -7,6 +7,8 @@ sites:
     url: https://proxy.bitwage.com
   - name: proxy api sandbox
     url: https://proxy1.bitwage.com
+  - name: proxy api documentation
+    url: https://docs4.bitwage.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,6 +24,8 @@ status-website:
       href: /
     - title: Bitwage
       href: https://www.bitwage.com
+  favicon: https://bitwage-images.s3.amazonaws.com/favicon.ico
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
