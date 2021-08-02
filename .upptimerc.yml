@@ -11,6 +11,14 @@ sites:
     url: $PROXY_DOCS_URL
     headers:
       - "Authorization: Basic $PROXY_DOCS_BASIC_AUTH"
+  - name: pay portal api documentation
+    url: $PAY_PORTAL_DOCS_URL
+    headers:
+      - "Authorization: Basic $PAY_PORTAL_DOCS_BASIC_AUTH"
+  - name: bitwage api documentation
+    url: $BITWAGE_API_DOCS_URL
+    headers:
+      - "Authorization: Basic $BITWAGE_API_DOCS_BASIC_AUTH"
   - name: public api documentation
     url: https://docs1.bitwage.com
 
