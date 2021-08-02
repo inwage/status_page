@@ -11,6 +11,7 @@ sites:
     url: $PAY_PORTAL_DOCS_URL
     headers:
       - "Authorization: Basic $PAY_PORTAL_DOCS_BASIC_AUTH"
+      
   - name: proxy api production
     url: $PROXY_PROD_URL1
   - name: proxy api sandbox
@@ -19,19 +20,27 @@ sites:
     url: $PROXY_DOCS_URL
     headers:
       - "Authorization: Basic $PROXY_DOCS_BASIC_AUTH"
-  - name: bitwage api dev1
-    url: https://api.dev1.bitwage.com
-  
+      
+  - name: bitwage api sandbox
+    url: https://api.sandbox.bitwage.com
+  - name: bitwage api production
+    url: https://api2.bitwage.com
   - name: private bitwage api documentation
     url: $BITWAGE_API_DOCS_URL
     headers:
       - "Authorization: Basic $BITWAGE_API_DOCS_BASIC_AUTH"
-  - name: public api documentation
+  - name: public bitwage api documentation
     url: https://docs1.bitwage.com
-  - name: user frontend sandbox
+    
+  - name: user portal frontend sandbox
     url: https://app.sandbox.bitwage.com
-  - name: user frontend production
+  - name: user portal frontend production
     url: https://app.bitwage.com
+    
+  - name: admin portal frontend sandbox
+    url: $ADMIN_FRONTEND_SANDBOX_URL
+  - name: admin portal frontend production
+    url: $FRONTEND_ADMIN_PROD_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
