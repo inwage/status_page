@@ -19,19 +19,18 @@ sites:
     url: $PROXY_DOCS_URL
     headers:
       - "Authorization: Basic $PROXY_DOCS_BASIC_AUTH"
-  - name: private api documentation
+  - name: bitwage api dev1
+    url: https://api.dev1.bitwage.com
+  
+  - name: private bitwage api documentation
     url: $BITWAGE_API_DOCS_URL
     headers:
       - "Authorization: Basic $BITWAGE_API_DOCS_BASIC_AUTH"
   - name: public api documentation
     url: https://docs1.bitwage.com
-  - name: frontend dev1
-    url: $FRONTEND_DEV1_URL
-  - name: frontend qa
-    url: $FRONTEND_QA_URL
-  - name: frontend sandbox
-    url: $FRONTEND_SANDBOX_URL
-  - name: frontend production
+  - name: user frontend sandbox
+    url: https://app.sandbox.bitwage.com
+  - name: user frontend production
     url: https://app.bitwage.com
 
 status-website:
