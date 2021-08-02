@@ -1,39 +1,43 @@
 [
   {
     "name": "proxy api production",
-    "url": "https://proxy.bitwage.com",
-    "icon": "https://favicons.githubusercontent.com/proxy.bitwage.com",
+    "url": "$PROXY_PROD_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "proxy-api-production",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 297,
-    "timeDay": 297,
+    "timeDay": 180,
     "timeWeek": 297,
     "timeMonth": 297,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-02": 0
+    }
   },
   {
     "name": "proxy api sandbox",
-    "url": "https://proxy1.bitwage.com",
-    "icon": "https://favicons.githubusercontent.com/proxy1.bitwage.com",
+    "url": "$PROXY_SANDBOX_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "proxy-api-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 275,
+    "timeDay": 185,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-02": 0
+    }
   },
   {
     "name": "public api documentation",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 354,
-    "timeWeek": 354,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "time": 359,
+    "timeDay": 353,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
