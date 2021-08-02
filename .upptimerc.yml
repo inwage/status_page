@@ -7,6 +7,10 @@ sites:
     url: $PROXY_PROD_URL1
   - name: proxy api sandbox
     url: $PROXY_SANDBOX_URL1
+  - name: proxy api documentation
+    url: $PROXY_DOCS_URL
+    headers:
+      - "Authorization: Basic $PROXY_DOCS_BASIC_AUTH"
   - name: public api documentation
     url: https://docs1.bitwage.com
 
