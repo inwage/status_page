@@ -4,9 +4,9 @@ repo: status_page # The name of this repository
 
 sites:
   - name: proxy api production
-    url: $PROXY_PROD_URL
+    url: $PROXY_PROD_URL1
   - name: proxy api sandbox
-    url: $PROXY_SANDBOX_URL
+    url: $PROXY_SANDBOX_URL1
   - name: public api documentation
     url: https://docs1.bitwage.com
 
