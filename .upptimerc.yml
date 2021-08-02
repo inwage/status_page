@@ -19,7 +19,7 @@ sites:
     url: $PROXY_DOCS_URL
     headers:
       - "Authorization: Basic $PROXY_DOCS_BASIC_AUTH"
-  - name: bitwage api documentation
+  - name: private api documentation
     url: $BITWAGE_API_DOCS_URL
     headers:
       - "Authorization: Basic $BITWAGE_API_DOCS_BASIC_AUTH"
