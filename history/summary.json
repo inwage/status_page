@@ -1,42 +1,42 @@
 [
   {
     "name": "proxy api production",
-    "url": "$PROXY_PROD_URL",
+    "url": "$PROXY_PROD_URL1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "proxy-api-production",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 297,
-    "timeDay": 180,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 931,
+    "timeDay": 2458,
+    "timeWeek": 931,
+    "timeMonth": 931,
+    "timeYear": 931,
     "dailyMinutesDown": {
-      "2021-08-02": 0
+      "2021-08-02": 9
     }
   },
   {
     "name": "proxy api sandbox",
-    "url": "$PROXY_SANDBOX_URL",
+    "url": "$PROXY_SANDBOX_URL1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "proxy-api-sandbox",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 275,
-    "timeDay": 185,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 278,
+    "timeDay": 242,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2021-08-02": 0
+      "2021-08-02": 9
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 353,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 424,
+    "timeDay": 441,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   }
 ]
