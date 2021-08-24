@@ -1,7 +1,7 @@
 url: $ADMIN_FRONTEND_SANDBOX_URL
 status: up
 code: 200
-responseTime: 403
-lastUpdated: 2021-08-23T23:01:37.731Z
+responseTime: 1722
+lastUpdated: 2021-08-24T23:01:47.213Z
 startTime: Mon Aug 02 2021 19:58:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
