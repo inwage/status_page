@@ -219,18 +219,20 @@
     "url": "https://app.bitwage.com",
     "icon": "https://favicons.githubusercontent.com/app.bitwage.com",
     "slug": "user-portal-frontend-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 166,
-    "timeWeek": 615,
-    "timeMonth": 485,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 578,
+    "timeDay": 248,
+    "timeWeek": 579,
+    "timeMonth": 480,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2021-11-27": 0
+    }
   },
   {
     "name": "admin portal frontend sandbox",
