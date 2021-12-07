@@ -67,9 +67,9 @@
     "slug": "proxy-api-production",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "90.97%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.93%",
     "time": 1265,
     "timeDay": 6265,
@@ -77,7 +77,7 @@
     "timeMonth": 2590,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2021-12-07": 130
+      "2021-12-07": 124
     }
   },
   {
@@ -148,19 +148,19 @@
     "url": "https://api2.bitwage.com",
     "icon": "https://favicons.githubusercontent.com/api2.bitwage.com",
     "slug": "bitwage-api-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "91.22%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.93%",
-    "time": 895,
-    "timeDay": 5628,
-    "timeWeek": 4933,
-    "timeMonth": 2466,
-    "timeYear": 895,
+    "time": 891,
+    "timeDay": 4967,
+    "timeWeek": 4605,
+    "timeMonth": 2408,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2021-12-07": 121
+      "2021-12-07": 126
     }
   },
   {
@@ -232,7 +232,7 @@
     "uptime": "91.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.50%",
+    "uptimeMonth": "64.49%",
     "uptimeYear": "91.50%",
     "time": 564,
     "timeDay": 178,
@@ -240,7 +240,7 @@
     "timeMonth": 519,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2021-12-07": 1303,
+      "2021-12-07": 1308,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
