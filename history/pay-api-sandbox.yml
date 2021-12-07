@@ -1,7 +1,7 @@
 url: $PAY_PORTAL_SANDBOX_URL
-status: down
-code: 504
-responseTime: 10209
-lastUpdated: 2021-12-07T17:59:11.369Z
+status: up
+code: 200
+responseTime: 650
+lastUpdated: 2021-12-07T18:58:44.543Z
 startTime: Mon Aug 02 2021 12:08:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
