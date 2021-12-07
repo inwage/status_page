@@ -1,7 +1,7 @@
 url: $PAY_PORTAL_PROD_URL
-status: down
-code: 504
-responseTime: 10237
-lastUpdated: 2021-12-07T19:23:34.764Z
+status: up
+code: 200
+responseTime: 771
+lastUpdated: 2021-12-07T19:30:24.348Z
 startTime: Mon Aug 02 2021 12:08:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
