@@ -1,7 +1,7 @@
 url: $PROXY_SANDBOX_URL1
-status: down
-code: 502
-responseTime: 6716
-lastUpdated: 2022-01-19T14:05:43.719Z
+status: up
+code: 200
+responseTime: 235
+lastUpdated: 2022-01-19T14:15:04.501Z
 startTime: Sun Aug 01 2021 05:13:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
