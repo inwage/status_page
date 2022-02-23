@@ -1,7 +1,7 @@
 url: $PAY_PORTAL_PROD_URL
 status: up
 code: 200
-responseTime: 1103
-lastUpdated: 2022-02-22T23:01:45.050Z
+responseTime: 976
+lastUpdated: 2022-02-23T23:01:43.641Z
 startTime: Mon Aug 02 2021 12:08:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
