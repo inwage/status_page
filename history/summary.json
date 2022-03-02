@@ -359,19 +359,19 @@
     "url": "$ADMIN_FRONTEND_SANDBOX_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin-portal-frontend-sandbox",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1474,
-    "timeDay": 1829,
-    "timeWeek": 1217,
-    "timeMonth": 1594,
-    "timeYear": 1474,
+    "time": 1476,
+    "timeDay": 1852,
+    "timeWeek": 1299,
+    "timeMonth": 1604,
+    "timeYear": 1476,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 7
     }
   },
   {
