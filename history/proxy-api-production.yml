@@ -1,7 +1,7 @@
 url: $PROXY_PROD_URL1
 status: up
 code: 200
-responseTime: 7053
-lastUpdated: 2022-03-26T23:01:48.566Z
+responseTime: 414
+lastUpdated: 2022-03-27T23:01:43.789Z
 startTime: Sun Aug 01 2021 05:13:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
