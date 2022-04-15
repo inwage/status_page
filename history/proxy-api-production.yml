@@ -1,7 +1,7 @@
 url: $PROXY_PROD_URL1
-status: down
-code: 502
-responseTime: 3640
-lastUpdated: 2022-04-15T16:09:39.411Z
+status: up
+code: 200
+responseTime: 200
+lastUpdated: 2022-04-15T16:37:49.407Z
 startTime: Sun Aug 01 2021 05:13:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
