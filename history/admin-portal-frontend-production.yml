@@ -1,7 +1,7 @@
 url: $FRONTEND_ADMIN_PROD_URL
 status: up
 code: 200
-responseTime: 178
-lastUpdated: 2022-05-06T23:01:52.383Z
+responseTime: 158
+lastUpdated: 2022-05-07T23:01:44.154Z
 startTime: Mon Aug 02 2021 19:58:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
