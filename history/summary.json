@@ -136,19 +136,19 @@
     "url": "$PROXY_PROD_URL1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "proxy-api-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 2529,
-    "timeDay": 205,
-    "timeWeek": 236,
+    "time": 2523,
+    "timeDay": 227,
+    "timeWeek": 238,
     "timeMonth": 266,
-    "timeYear": 2673,
+    "timeYear": 2666,
     "dailyMinutesDown": {
-      "2022-09-09": 2,
+      "2022-09-09": 11,
       "2022-04-15": 28,
       "2021-12-07": 124
     }
@@ -221,7 +221,7 @@
     "timeMonth": 296,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-09-09": 678,
+      "2022-09-09": 687,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 276,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2022-09-09": 678,
+      "2022-09-09": 688,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -434,8 +434,8 @@
     "status": "down",
     "uptime": "98.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.55%",
-    "uptimeMonth": "88.62%",
+    "uptimeWeek": "50.45%",
+    "uptimeMonth": "88.60%",
     "uptimeYear": "99.05%",
     "time": 724,
     "timeDay": 0,
@@ -443,7 +443,7 @@
     "timeMonth": 546,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2022-09-09": 678,
+      "2022-09-09": 688,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1427
@@ -455,10 +455,10 @@
     "icon": "https://favicons.githubusercontent.com/docs1.bitwage.com",
     "slug": "public-bitwage-api-documentation",
     "status": "down",
-    "uptime": "98.79%",
+    "uptime": "98.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.55%",
-    "uptimeMonth": "88.62%",
+    "uptimeWeek": "50.45%",
+    "uptimeMonth": "88.60%",
     "uptimeYear": "99.05%",
     "time": 524,
     "timeDay": 0,
@@ -466,7 +466,7 @@
     "timeMonth": 404,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-09-09": 678,
+      "2022-09-09": 688,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1427
@@ -566,19 +566,19 @@
     "url": "$ADMIN_FRONTEND_SANDBOX_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin-portal-frontend-sandbox",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1133,
-    "timeDay": 1772,
-    "timeWeek": 732,
-    "timeMonth": 647,
+    "timeDay": 1396,
+    "timeWeek": 768,
+    "timeMonth": 659,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2022-09-09": 1
+      "2022-09-09": 10
     }
   },
   {
@@ -586,19 +586,19 @@
     "url": "$FRONTEND_ADMIN_PROD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin-portal-frontend-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 217,
-    "timeWeek": 455,
+    "timeDay": 253,
+    "timeWeek": 434,
     "timeMonth": 296,
-    "timeYear": 445,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2022-09-09": 1
+      "2022-09-09": 10
     }
   }
 ]
