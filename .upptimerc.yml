@@ -10,15 +10,6 @@ sites:
   - name: bitwage home page
     url: https://www.bitwage.com
 
-  - name: pay api production
-    url: $PAY_PORTAL_PROD_URL
-  - name: pay api sandbox
-    url: $PAY_PORTAL_SANDBOX_URL
-  - name: pay api documentation
-    url: $PAY_PORTAL_DOCS_URL
-    headers:
-      - "Authorization: Basic $PAY_PORTAL_DOCS_BASIC_AUTH"
-      
   - name: proxy api production
     url: $PROXY_PROD_URL1
   - name: proxy api sandbox
