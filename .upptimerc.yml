@@ -32,12 +32,8 @@ sites:
     url: https://api.sandbox.bitwage.com
   - name: bitwage api production
     url: https://api2.bitwage.com
-  - name: private bitwage api documentation
-    url: $BITWAGE_API_DOCS_URL
-    headers:
-      - "Authorization: Basic $BITWAGE_API_DOCS_BASIC_AUTH"
-  - name: public bitwage api documentation
-    url: https://docs1.bitwage.com
+  - name: bitwage api documentation
+    url: https://developer.bitwage.com
     
   - name: user portal frontend sandbox
     url: https://app.sandbox.bitwage.com
