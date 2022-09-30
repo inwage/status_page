@@ -5,3 +5,11 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/status_page.iml
 /.idea/vcs.xml
+# Default ignored files
+/.idea/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/.idea/httpRequests/
+# Datasource local storage ignored files
+/.idea/dataSources/
+/.idea/dataSources.local.xml
