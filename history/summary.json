@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1208,
-    "timeDay": 1307,
-    "timeWeek": 1229,
+    "time": 1206,
+    "timeDay": 905,
+    "timeWeek": 1220,
     "timeMonth": 1230,
-    "timeYear": 1208,
+    "timeYear": 1206,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 353,
-    "timeDay": 360,
-    "timeWeek": 275,
-    "timeMonth": 309,
-    "timeYear": 346,
+    "timeDay": 178,
+    "timeWeek": 277,
+    "timeMonth": 310,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2022-10-13": 51,
       "2022-07-08": 28
@@ -49,14 +49,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 325,
-    "timeDay": 81,
-    "timeWeek": 133,
-    "timeMonth": 100,
-    "timeYear": 303,
+    "time": 324,
+    "timeDay": 59,
+    "timeWeek": 101,
+    "timeMonth": 99,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-05-17": 196,
-      "2022-03-07": 16
+      "2022-05-17": 196
     }
   },
   {
@@ -70,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 564,
-    "timeDay": 272,
-    "timeWeek": 253,
-    "timeMonth": 1181,
-    "timeYear": 564,
+    "time": 561,
+    "timeDay": 135,
+    "timeWeek": 248,
+    "timeMonth": 1180,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2022-10-19": 54
     }
@@ -85,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
     "status": "up",
-    "uptime": "81.02%",
+    "uptime": "81.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "69.83%",
     "time": 326,
-    "timeDay": 197,
-    "timeWeek": 388,
-    "timeMonth": 289,
+    "timeDay": 306,
+    "timeWeek": 380,
+    "timeMonth": 286,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2023-02-07": 217,
@@ -222,11 +221,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 638,
-    "timeDay": 533,
-    "timeWeek": 499,
-    "timeMonth": 485,
-    "timeYear": 638,
+    "time": 636,
+    "timeDay": 293,
+    "timeWeek": 445,
+    "timeMonth": 483,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-16": 22
