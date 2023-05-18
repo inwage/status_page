@@ -4,7 +4,7 @@
     "url": "https://www.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitwage.com.ico",
     "slug": "bitwage-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1200,
     "timeMonth": 1193,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-18": 0
+    }
   },
   {
     "name": "Bitwage Support",
@@ -66,12 +68,12 @@
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.65%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.80%",
     "time": 459,
     "timeDay": 286,
     "timeWeek": 245,
-    "timeMonth": 236,
+    "timeMonth": 235,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2023-04-18": 592,
@@ -84,7 +86,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
     "status": "up",
-    "uptime": "83.14%",
+    "uptime": "83.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
