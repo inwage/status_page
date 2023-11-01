@@ -1,7 +1,7 @@
 url: https://api2.bitwage.com
-status: down
-code: 500
-responseTime: 258
-lastUpdated: 2023-11-01T13:06:34.851Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2023-11-01T13:38:33.181Z
 startTime: 2022-09-30T18:07:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
