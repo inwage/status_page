@@ -4,19 +4,19 @@
     "url": "https://www.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitwage.com.ico",
     "slug": "bitwage-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1158,
-    "timeDay": 1213,
-    "timeWeek": 908,
-    "timeMonth": 1038,
-    "timeYear": 1144,
+    "timeDay": 1049,
+    "timeWeek": 905,
+    "timeMonth": 1034,
+    "timeYear": 1143,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 24
     }
   },
   {
