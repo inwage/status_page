@@ -6,8 +6,8 @@
     "slug": "bitwage-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1142,
@@ -16,7 +16,6 @@
     "timeMonth": 1198,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2024-02-23": 1,
       "2024-01-05": 24
     }
   },
