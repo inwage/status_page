@@ -1,7 +1,7 @@
 url: https://api.sandbox.bitwage.com
-status: down
-code: 403
-responseTime: 315
-lastUpdated: 2024-05-07T02:58:08.180Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2024-05-07T03:07:15.266Z
 startTime: 2021-08-02T19:58:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
