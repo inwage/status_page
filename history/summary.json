@@ -89,21 +89,21 @@
     "slug": "bitwage-api-sandbox",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "33.36%",
-    "uptimeWeek": "59.51%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "34.09%",
+    "uptimeWeek": "59.84%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "99.23%",
     "time": 268,
-    "timeDay": 219,
+    "timeDay": 220,
     "timeWeek": 223,
     "timeMonth": 224,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-05-31": 709,
+      "2024-05-31": 718,
       "2024-05-30": 934,
       "2024-05-29": 969,
       "2024-05-28": 847,
-      "2024-05-27": 621
+      "2024-05-27": 579
     }
   },
   {
