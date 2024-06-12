@@ -12,7 +12,7 @@
     "uptimeYear": "99.95%",
     "time": 1174,
     "timeDay": 914,
-    "timeWeek": 1093,
+    "timeWeek": 1079,
     "timeMonth": 1592,
     "timeYear": 1185,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 253,
-    "timeWeek": 270,
+    "timeWeek": 263,
     "timeMonth": 233,
     "timeYear": 225,
     "dailyMinutesDown": {}
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 94,
-    "timeWeek": 149,
+    "timeWeek": 159,
     "timeMonth": 145,
     "timeYear": 148,
     "dailyMinutesDown": {}
@@ -71,7 +71,7 @@
     "uptimeYear": "99.93%",
     "time": 291,
     "timeDay": 96,
-    "timeWeek": 157,
+    "timeWeek": 151,
     "timeMonth": 124,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -87,14 +87,14 @@
     "url": "https://api.sandbox.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "36.45%",
-    "uptimeWeek": "54.67%",
-    "uptimeMonth": "89.57%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "36.54%",
+    "uptimeWeek": "55.14%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "99.14%",
     "time": 257,
-    "timeDay": 247,
+    "timeDay": 244,
     "timeWeek": 216,
     "timeMonth": 222,
     "timeYear": 255,
@@ -103,7 +103,7 @@
       "2024-06-11": 995,
       "2024-06-10": 932,
       "2024-06-09": 1025,
-      "2024-06-08": 755
+      "2024-06-08": 707
     }
   },
   {
@@ -119,7 +119,7 @@
     "uptimeYear": "99.95%",
     "time": 914,
     "timeDay": 299,
-    "timeWeek": 1040,
+    "timeWeek": 1127,
     "timeMonth": 732,
     "timeYear": 1048,
     "dailyMinutesDown": {
