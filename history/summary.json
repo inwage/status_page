@@ -87,14 +87,14 @@
     "url": "https://api.sandbox.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "36.43%",
-    "uptimeWeek": "57.14%",
-    "uptimeMonth": "90.14%",
-    "uptimeYear": "99.18%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "37.28%",
+    "uptimeWeek": "57.92%",
+    "uptimeMonth": "90.32%",
+    "uptimeYear": "99.19%",
     "time": 246,
-    "timeDay": 318,
+    "timeDay": 317,
     "timeWeek": 247,
     "timeMonth": 230,
     "timeYear": 244,
@@ -103,7 +103,7 @@
       "2024-07-16": 819,
       "2024-07-15": 962,
       "2024-07-14": 1074,
-      "2024-07-13": 943
+      "2024-07-13": 864
     }
   },
   {
