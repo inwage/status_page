@@ -13,7 +13,7 @@
     "time": 1167,
     "timeDay": 0,
     "timeWeek": 1238,
-    "timeMonth": 1087,
+    "timeMonth": 1083,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2024-07-13": 17,
@@ -37,7 +37,7 @@
     "time": 274,
     "timeDay": 0,
     "timeWeek": 282,
-    "timeMonth": 302,
+    "timeMonth": 297,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -73,7 +73,7 @@
     "time": 237,
     "timeDay": 0,
     "timeWeek": 190,
-    "timeMonth": 160,
+    "timeMonth": 158,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2023-12-07": 40,
@@ -89,21 +89,21 @@
     "slug": "bitwage-api-sandbox",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "31.81%",
-    "uptimeWeek": "55.32%",
-    "uptimeMonth": "89.72%",
+    "uptimeDay": "32.28%",
+    "uptimeWeek": "55.23%",
+    "uptimeMonth": "89.70%",
     "uptimeYear": "99.14%",
     "time": 244,
     "timeDay": 236,
     "timeWeek": 235,
-    "timeMonth": 236,
+    "timeMonth": 237,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-07-30": 982,
+      "2024-07-30": 975,
       "2024-07-29": 943,
       "2024-07-28": 980,
       "2024-07-27": 989,
-      "2024-07-26": 612
+      "2024-07-26": 628
     }
   },
   {
@@ -120,7 +120,7 @@
     "time": 935,
     "timeDay": 0,
     "timeWeek": 937,
-    "timeMonth": 895,
+    "timeMonth": 876,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2024-05-11": 125,
