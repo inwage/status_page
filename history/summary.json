@@ -89,9 +89,9 @@
     "slug": "bitwage-api-sandbox",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "42.96%",
-    "uptimeWeek": "54.05%",
-    "uptimeMonth": "89.43%",
+    "uptimeDay": "44.59%",
+    "uptimeWeek": "53.86%",
+    "uptimeMonth": "89.38%",
     "uptimeYear": "99.12%",
     "time": 244,
     "timeDay": 245,
@@ -99,12 +99,12 @@
     "timeMonth": 236,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-08-03": 821,
+      "2024-08-03": 814,
       "2024-08-02": 910,
       "2024-08-01": 959,
       "2024-07-31": 940,
       "2024-07-30": 975,
-      "2024-07-29": 27
+      "2024-07-29": 53
     }
   },
   {
