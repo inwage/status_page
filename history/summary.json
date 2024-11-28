@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.73%",
     "time": 1181,
-    "timeDay": 1040,
-    "timeWeek": 1330,
-    "timeMonth": 1234,
+    "timeDay": 957,
+    "timeWeek": 1309,
+    "timeMonth": 1232,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2024-11-17": 37,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 230,
+    "timeDay": 153,
+    "timeWeek": 200,
+    "timeMonth": 231,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 259,
-    "timeWeek": 164,
-    "timeMonth": 173,
-    "timeYear": 158,
+    "timeDay": 275,
+    "timeWeek": 191,
+    "timeMonth": 180,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 113,
-    "timeWeek": 196,
-    "timeMonth": 181,
+    "timeDay": 104,
+    "timeWeek": 190,
+    "timeMonth": 182,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2023-12-07": 40
@@ -87,15 +87,15 @@
     "url": "https://api.sandbox.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "28.98%",
-    "uptimeWeek": "50.56%",
-    "uptimeMonth": "88.62%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "30.41%",
+    "uptimeWeek": "50.83%",
+    "uptimeMonth": "88.69%",
+    "uptimeYear": "99.06%",
     "time": 232,
     "timeDay": 228,
-    "timeWeek": 240,
+    "timeWeek": 239,
     "timeMonth": 234,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
       "2024-11-26": 942,
       "2024-11-25": 958,
       "2024-11-24": 999,
-      "2024-11-23": 155
+      "2024-11-23": 127
     }
   },
   {
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1087,
-    "timeDay": 436,
-    "timeWeek": 589,
-    "timeMonth": 1697,
+    "timeDay": 369,
+    "timeWeek": 592,
+    "timeMonth": 1545,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2024-05-11": 125,
