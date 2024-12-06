@@ -78,9 +78,7 @@
     "timeWeek": 99,
     "timeMonth": 172,
     "timeYear": 152,
-    "dailyMinutesDown": {
-      "2023-12-07": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitwage API (Sandbox)",
@@ -89,17 +87,18 @@
     "slug": "bitwage-api-sandbox",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "26.38%",
-    "uptimeWeek": "53.41%",
-    "uptimeMonth": "89.28%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "25.85%",
+    "uptimeWeek": "53.07%",
+    "uptimeMonth": "89.20%",
+    "uptimeYear": "99.10%",
     "time": 232,
     "timeDay": 231,
-    "timeWeek": 233,
+    "timeWeek": 234,
     "timeMonth": 233,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-12-05": 1049,
+      "2024-12-06": 18,
+      "2024-12-05": 1066,
       "2024-12-04": 1000,
       "2024-12-03": 1028,
       "2024-12-02": 959,
