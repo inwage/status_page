@@ -12,9 +12,9 @@
     "uptimeYear": "99.73%",
     "time": 1178,
     "timeDay": 1568,
-    "timeWeek": 1242,
+    "timeWeek": 1288,
     "timeMonth": 1203,
-    "timeYear": 1212,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2024-11-17": 37,
       "2024-10-17": 806,
@@ -39,7 +39,7 @@
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 201,
-    "timeWeek": 172,
+    "timeWeek": 167,
     "timeMonth": 245,
     "timeYear": 254,
     "dailyMinutesDown": {}
@@ -57,9 +57,9 @@
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 130,
-    "timeWeek": 168,
+    "timeWeek": 158,
     "timeMonth": 175,
-    "timeYear": 160,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -75,9 +75,9 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 304,
-    "timeWeek": 182,
-    "timeMonth": 162,
-    "timeYear": 154,
+    "timeWeek": 190,
+    "timeMonth": 166,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -85,15 +85,15 @@
     "url": "https://api.sandbox.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "22.85%",
-    "uptimeWeek": "45.39%",
-    "uptimeMonth": "87.43%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "23.32%",
+    "uptimeWeek": "45.91%",
+    "uptimeMonth": "87.55%",
+    "uptimeYear": "98.96%",
     "time": 231,
-    "timeDay": 257,
-    "timeWeek": 234,
+    "timeDay": 258,
+    "timeWeek": 233,
     "timeMonth": 229,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
       "2024-12-30": 980,
       "2024-12-29": 1095,
       "2024-12-28": 1156,
-      "2024-12-27": 96
+      "2024-12-27": 44
     }
   },
   {
@@ -117,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1055,
-    "timeDay": 455,
-    "timeWeek": 808,
-    "timeMonth": 763,
-    "timeYear": 876,
+    "timeDay": 0,
+    "timeWeek": 846,
+    "timeMonth": 716,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2024-05-11": 125,
       "2024-02-16": 18
