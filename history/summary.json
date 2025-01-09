@@ -13,7 +13,7 @@
     "time": 1183,
     "timeDay": 1105,
     "timeWeek": 1253,
-    "timeMonth": 1226,
+    "timeMonth": 1233,
     "timeYear": 1219,
     "dailyMinutesDown": {
       "2024-11-17": 37,
@@ -39,7 +39,7 @@
     "time": 250,
     "timeDay": 202,
     "timeWeek": 227,
-    "timeMonth": 229,
+    "timeMonth": 230,
     "timeYear": 255,
     "dailyMinutesDown": {}
   },
@@ -57,7 +57,7 @@
     "time": 158,
     "timeDay": 155,
     "timeWeek": 183,
-    "timeMonth": 157,
+    "timeMonth": 161,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -75,7 +75,7 @@
     "time": 156,
     "timeDay": 135,
     "timeWeek": 191,
-    "timeMonth": 178,
+    "timeMonth": 183,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -84,12 +84,12 @@
     "url": "https://api.sandbox.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "17.70%",
-    "uptimeWeek": "32.79%",
-    "uptimeMonth": "84.53%",
-    "uptimeYear": "98.71%",
+    "uptimeDay": "17.90%",
+    "uptimeWeek": "33.48%",
+    "uptimeMonth": "84.69%",
+    "uptimeYear": "98.72%",
     "time": 239,
     "timeDay": 228,
     "timeWeek": 222,
@@ -102,7 +102,7 @@
       "2025-01-06": 1119,
       "2025-01-05": 1090,
       "2025-01-04": 1054,
-      "2025-01-03": 85
+      "2025-01-03": 15
     }
   },
   {
