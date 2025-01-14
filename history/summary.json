@@ -13,8 +13,8 @@
     "time": 1185,
     "timeDay": 1041,
     "timeWeek": 1250,
-    "timeMonth": 1241,
-    "timeYear": 1225,
+    "timeMonth": 1233,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2024-11-17": 37,
       "2024-10-17": 806,
@@ -39,8 +39,8 @@
     "time": 250,
     "timeDay": 135,
     "timeWeek": 212,
-    "timeMonth": 226,
-    "timeYear": 255,
+    "timeMonth": 223,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -84,14 +84,14 @@
     "url": "https://api.sandbox.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.sandbox.bitwage.com.ico",
     "slug": "bitwage-api-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "21.94%",
-    "uptimeWeek": "29.99%",
-    "uptimeMonth": "83.89%",
+    "uptimeDay": "22.47%",
+    "uptimeWeek": "30.16%",
+    "uptimeMonth": "83.93%",
     "uptimeYear": "98.66%",
     "time": 231,
-    "timeDay": 245,
+    "timeDay": 246,
     "timeWeek": 230,
     "timeMonth": 228,
     "timeYear": 232,
@@ -102,7 +102,7 @@
       "2025-01-11": 1205,
       "2025-01-10": 1127,
       "2025-01-09": 1198,
-      "2025-01-08": 42
+      "2025-01-08": 25
     }
   },
   {
