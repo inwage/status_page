@@ -41,7 +41,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bitwage.com
   #baseUrl: /status_page
-  logoUrl: https://app.bitwage.com/assets/bitwage-logo-66aec514.svg
+  logoUrl: https://bitwage-images.s3.amazonaws.com/bitwage_status_sm.png
   name: Bitwage Status Page
   introTitle: "Bitwage Status Page"
   introMessage: Bitwage Status Page
