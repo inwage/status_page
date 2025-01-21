@@ -21,8 +21,8 @@ sites:
 #
   - name: Bitwage API
     url: https://api2.bitwage.com
-  - name: Bitwage API (Sandbox)
-    url: https://api.sandbox.bitwage.com
+#  - name: Bitwage API (Sandbox)
+#    url: https://api.sandbox.bitwage.com
   - name: Bitwage API Docs
     url: https://developer.bitwage.com
 #
