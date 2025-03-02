@@ -85,18 +85,19 @@
     "url": "https://developer.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.bitwage.com.ico",
     "slug": "bitwage-api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 841,
-    "timeDay": 312,
-    "timeWeek": 1041,
-    "timeMonth": 783,
-    "timeYear": 908,
+    "timeDay": 349,
+    "timeWeek": 959,
+    "timeMonth": 771,
+    "timeYear": 907,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2024-05-11": 125
     }
   }
