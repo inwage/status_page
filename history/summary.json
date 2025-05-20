@@ -47,19 +47,19 @@
     "url": "https://blog.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.bitwage.com.ico",
     "slug": "bitwage-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 127,
-    "timeWeek": 168,
-    "timeMonth": 166,
-    "timeYear": 169,
+    "timeDay": 297,
+    "timeWeek": 206,
+    "timeMonth": 176,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-05-20": 0
+      "2025-05-20": 11
     }
   },
   {
