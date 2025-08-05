@@ -45,18 +45,20 @@
     "url": "https://blog.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.bitwage.com.ico",
     "slug": "bitwage-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 397,
-    "timeWeek": 456,
-    "timeMonth": 488,
-    "timeYear": 233,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 7807,
+    "timeWeek": 2301,
+    "timeMonth": 866,
+    "timeYear": 273,
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Bitwage API",
