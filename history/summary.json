@@ -4,9 +4,9 @@
     "url": "https://www.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitwage.com.ico",
     "slug": "bitwage-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 655,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-01-18": 20,
       "2024-11-17": 37,
       "2024-10-17": 806,
@@ -45,9 +46,9 @@
     "url": "https://blog.bitwage.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.bitwage.com.ico",
     "slug": "bitwage-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +57,9 @@
     "timeWeek": 504,
     "timeMonth": 897,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "Bitwage API",
@@ -89,7 +92,7 @@
     "uptimeYear": "99.97%",
     "time": 1300,
     "timeDay": 3038,
-    "timeWeek": 3197,
+    "timeWeek": 2957,
     "timeMonth": 3113,
     "timeYear": 1480,
     "dailyMinutesDown": {
