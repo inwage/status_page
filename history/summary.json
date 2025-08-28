@@ -6,8 +6,8 @@
     "slug": "bitwage-homepage",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
     "time": 938,
@@ -16,7 +16,6 @@
     "timeMonth": 659,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2025-08-27": 2,
       "2025-08-25": 21,
       "2025-01-18": 20,
       "2024-11-17": 37,
@@ -49,8 +48,8 @@
     "slug": "bitwage-blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 257,
@@ -59,7 +58,6 @@
     "timeMonth": 947,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-08-27": 2,
       "2025-08-25": 20
     }
   },
