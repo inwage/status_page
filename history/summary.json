@@ -90,8 +90,8 @@
     "slug": "bitwage-api-docs",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "95.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.05%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.86%",
     "time": 1963,
@@ -100,7 +100,6 @@
     "timeMonth": 3377,
     "timeYear": 2202,
     "dailyMinutesDown": {
-      "2025-10-03": 2,
       "2025-10-01": 413,
       "2025-09-30": 87,
       "2025-09-20": 16,
