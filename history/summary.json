@@ -21,8 +21,7 @@
       "2025-08-25": 21,
       "2025-01-18": 20,
       "2024-11-17": 37,
-      "2024-10-17": 806,
-      "2024-10-16": 292
+      "2024-10-17": 806
     }
   },
   {
@@ -90,17 +89,16 @@
     "slug": "bitwage-api-docs",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.85%",
     "time": 2121,
     "timeDay": 4040,
-    "timeWeek": 3790,
-    "timeMonth": 3576,
+    "timeWeek": 3760,
+    "timeMonth": 3573,
     "timeYear": 2420,
     "dailyMinutesDown": {
-      "2025-10-15": 5,
       "2025-10-09": 58,
       "2025-10-07": 16,
       "2025-10-04": 23,
