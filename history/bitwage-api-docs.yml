@@ -1,7 +1,7 @@
 url: https://developer.bitwage.com
-status: up
-code: 200
-responseTime: 384
-lastUpdated: 2025-10-29T09:18:45.147Z
+status: down
+code: 500
+responseTime: 5231
+lastUpdated: 2025-10-29T09:39:10.152Z
 startTime: 2022-09-30T18:07:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
